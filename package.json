@@ -9,5 +9,8 @@
   },
   "devDependencies": {
     "vite": "^2.9.5"
+  },
+  "dependencies": {
+    "vite-plugin-handlebars": "^1.6.0"
   }
 }
